@@ -52,4 +52,4 @@ npm run dev
 ## Extra
 
 - Other then above, how different version of api, can be used is also implemented.
--
+- In case any error comes, while initializing sequelize-cli, delete the files, if already present
